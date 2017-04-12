@@ -37,7 +37,7 @@ $log->logIt('Type of error', 'Error message...', false);
 $log->logIt('Type of error in other file', 'Error message...', false, 'err');
 
 // Or use it thru static methods
-// TODO: Log::logIt('Type of log', 'Log message...');
-// TODO: Log::logIt('Type of error', 'Error message...', false);
-// TODO: Log::logIt('Type of error in other file', 'Error message...', false, 'err');
+Log::logIt('Type of log', 'Log message...');
+Log::logIt('Type of error', 'Error message...', false);
+Log::logIt('Type of error in other file', 'Error message...', false, 'err');
 
