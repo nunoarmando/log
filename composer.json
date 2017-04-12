@@ -13,7 +13,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Naas\\": "src"
+			"Naas\\Helpers\\": "src/"
 		}
 	}
 }
