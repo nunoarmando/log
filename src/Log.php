@@ -41,6 +41,12 @@ class Log
 		}
 	}
 	
+	public static function logIt($type, $message, $ok = true, $logfile = 'log')
+	{
+		$log = LogFactory::create();
+		$log->logIt($type, $message, $ok, $logfile);
+	} 
+	
 }
 
 class LogFactory
