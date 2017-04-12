@@ -1,11 +1,9 @@
 <?php
 
-namespace Naas\Helpers;
-
 /*!
  * Log library
  * http://www.nunoserrano.com
- * Version 0.1
+ * Version 0.6
  *
  * Copyright 2017, Nuno Serrano
  * Released under the MIT license
