@@ -4,7 +4,7 @@
 
 **naas/log** is a simple logging class
 
-Installation
+Installation and so on...
 
 Install with [composer](http://getcomposer.org/download)
 
