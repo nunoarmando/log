@@ -41,3 +41,4 @@ Log::logIt('Type of log', 'Log message...');
 Log::logIt('Type of error', 'Error message...', false);
 Log::logIt('Type of error in other file', 'Error message...', false, 'err');
 
+// to check after...
